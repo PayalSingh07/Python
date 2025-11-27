@@ -4,15 +4,15 @@ class Calculator:
     subtraction, multiplication, and division.
     """
     
-    """Adds two numbers and returns the result."""
+    """ Adds two numbers and returns the result."""
     def add(self, x, y):
         return x + y
     
-    """Subtracts two numbers and returns the result."""
+    """ Subtracts two numbers and returns the result."""
     def subtract(self, x, y):
         return x - y
     
-    """Multiplies two numbers and returns the result."""
+    """ Multiplies two numbers and returns the result."""
     def multiply(self, x, y):
         return x * y
     """Divide two numbers and returns the result."""
