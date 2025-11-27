@@ -14,6 +14,7 @@ class Point:                         # new class
         print("X and Y coordinate of Point")
         print(self.x)
         print(self.y)
+# Create a object of Class
 Obj = Point()
 Obj.show()
 Obj.setX(100)
